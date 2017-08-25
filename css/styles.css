@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../images/defbio.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dsc {
+    position: absolute;
+    left: 350px;
+}
+
+.dsc button {
+    margin: 250px;
+    padding: 20px;
+    background-color: crimson;
+    color: beige;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
